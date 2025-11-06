@@ -59,12 +59,16 @@ You can interact with it through a **Gradio Web App**, adjusting:
 
 ## 🧩 File Structure  
 
+```
+
 📂 Roman-Urdu-Poetry-Generator
 │
 ├── 📄 app.py                 # Main app (model + Gradio UI)
 ├── 📄 poetry_model.pth       # Trained LSTM model checkpoint
 ├── 📄 Roman-Urdu-Poetry.csv  # Training dataset (poems in Roman Urdu)
 └── 📄 README.md              # You're reading this :)
+
+```
 
 ---
 
