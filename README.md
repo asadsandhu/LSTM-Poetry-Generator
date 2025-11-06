@@ -202,6 +202,5 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 Made with ❤️ using **Python, PyTorch & Gradio**
 
 </div>
-```
 
 ---
